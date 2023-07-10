@@ -1,6 +1,11 @@
 body {
   text-align: center;
   background-color: beige;
+  margin: auto;
+  text-justify: center;
+  height: 200px;
+  width: 50%;
+  
 }
 
 h1 {
@@ -39,19 +44,22 @@ h1 {
   margin-right: 10px;
   text-align: center;
   line-height: 120px;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: bold;
+  margin: auto 20px;
 }
 
 #player-points,
 #dealer-points {
-  font-size: 24px;
+  font-size: 18px;
   font-weight: bold;
   margin: 30px;
   text-align: center;
-  text-overflow: clip;
+
 }
 
 #restart-button {
   display: inline-block;
 }
+
+
