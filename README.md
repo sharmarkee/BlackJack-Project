@@ -4,12 +4,15 @@ Black-Jack card game where the dealer and the player play thier hands until one 
 
 
 #Technologies Used
+
+
 Used CSS, JavaScript, HTML, and CSS.
 
 
 
 
 #Game Link:
+
 Link to Game: https://sharmarkee.github.io/blackjack-project/
 
 
